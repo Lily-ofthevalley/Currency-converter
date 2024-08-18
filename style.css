@@ -56,4 +56,5 @@ body {
     font-size: larger;
     border-radius: 30px;
     width: 20%;
+    cursor: pointer;
 }
